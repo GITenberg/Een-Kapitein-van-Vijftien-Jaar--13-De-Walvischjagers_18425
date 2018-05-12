@@ -19,6 +19,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Jules_Verne
     - http://pt.wikipedia.org/wiki/Júlio_Verne
 description: 'Translation of: Un Capitaine de quinze ans'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18425#Een-Kapitein-van-Vijftien-Jaar--13-De-Walvischjagers
 gutenberg_issued: '2006-05-19'
 gutenberg_type: Text
 identifiers:
